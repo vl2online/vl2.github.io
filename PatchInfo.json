@@ -1,0 +1,15 @@
+{
+  "Launch": {
+    "LatestVersion": 46,
+    "NewVersionUrl": "http://update.vl2.online/Autoupdate.zip"
+  },
+  "LatestVersion": "1.00.01",
+  "Patches": [
+    {
+      "VersionFrom": "1.00.00",
+      "VersionTo": "1.00.01",
+      "Url": "http://update.vl2.online/update-1.00.01.7z"
+    }
+  ]
+}
+
